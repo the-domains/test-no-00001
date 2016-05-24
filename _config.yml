@@ -1,6 +1,6 @@
 name: Test No 00001
 favicon: null
-layout_spectrum: 0.27256
+layout_spectrum: 0
 typography_spectrum: 0.77
 title: An introduction of sorts
 cta:
@@ -22,7 +22,7 @@ color:
     - '#c492b3'
     - '#b53e47'
     - '#c20b5e'
-  brandStrength: 0.1875
+  brandStrength: 0.5
   lightness: 0.75
   saturation: 0.8125
   rhythmicContrast: 0
