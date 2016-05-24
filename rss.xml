@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test No 00001]]></title>
+        <description><![CDATA[Test No 00001]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 24 May 2016 20:44:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>There are some things that need a computer's touch.</p>]]></description>
+            <link>undefinedthere-are-some-things-that-need-a-computers-touch/index.html</link>
+            <guid isPermaLink="false">87e2069e-7f3a-4485-bd61-0559996f5887</guid>
+            <pubDate>Tue, 24 May 2016 20:44:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
