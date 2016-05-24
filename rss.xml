@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Test No 00001]]></title>
         <description><![CDATA[Test No 00001]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/test-no-00001/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 24 May 2016 20:44:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 24 May 2016 20:44:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-no-00001/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9565afbe-7a3b-4435-9196-6e9454da7ca8.jpg">]]></description>
+            <link>https://thegrid.ai/test-no-00001/3f081792-7022-4800-ab65-20b68a7457bf/index.html</link>
+            <guid isPermaLink="false">3f081792-7022-4800-ab65-20b68a7457bf</guid>
+            <pubDate>Tue, 24 May 2016 20:44:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>There are some things that need a computer's touch.</p>]]></description>
-            <link>undefinedthere-are-some-things-that-need-a-computers-touch/index.html</link>
+            <link>https://thegrid.ai/test-no-00001/there-are-some-things-that-need-a-computers-touch/index.html</link>
             <guid isPermaLink="false">87e2069e-7f3a-4485-bd61-0559996f5887</guid>
             <pubDate>Tue, 24 May 2016 20:44:11 GMT</pubDate>
         </item>
